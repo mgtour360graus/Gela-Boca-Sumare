@@ -2,11 +2,6 @@
 
 ## Media
 
-### Audio
-audiores_014CC5C5_1592_B919_4194_8FCC9FF35B8F.mp3Url = media/audio_071283C8_1593_7917_41AC_692E2EAB30BB_pt.mp3
-
-### Audio Subtitles
-
 ### Title
 panorama_1F69FAF8_1476_88F7_41A5_DACAA1CAA78A.label = Gela Boca Sumaré
 panorama_1F68FA6D_1477_8BE8_4194_A433DF36621F.label = Gela Boca Sumaré
